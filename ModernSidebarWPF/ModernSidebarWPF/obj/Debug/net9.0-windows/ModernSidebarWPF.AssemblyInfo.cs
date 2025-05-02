@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModernSidebarWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cd082903554501820522385176170ce8040f4e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModernSidebarWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModernSidebarWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

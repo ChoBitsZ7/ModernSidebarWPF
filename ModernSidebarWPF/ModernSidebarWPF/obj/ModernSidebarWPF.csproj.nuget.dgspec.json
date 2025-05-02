@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF.csproj": {}
+    "C:\\Users\\skyfx\\RiderProjects\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF.csproj": {
+    "C:\\Users\\skyfx\\RiderProjects\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF.csproj",
+        "projectUniqueName": "C:\\Users\\skyfx\\RiderProjects\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF.csproj",
         "projectName": "ModernSidebarWPF",
-        "projectPath": "C:\\Projects\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF.csproj",
+        "projectPath": "C:\\Users\\skyfx\\RiderProjects\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF.csproj",
         "packagesPath": "C:\\Users\\skyfx\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ModernSidebarWPF\\ModernSidebarWPF\\obj\\",
+        "outputPath": "C:\\Users\\skyfx\\RiderProjects\\ModernSidebarWPF\\ModernSidebarWPF\\ModernSidebarWPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
